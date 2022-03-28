@@ -39,4 +39,12 @@ I think it was partially successful, though I didn't enjoy it as much as Taroko 
 
 [Hurry Up] https://lapis-scarlet-light.glitch.me
 
+## Week 5
+
+### First Twine Experiment, 'Holiday Rooms'
+
+https://624142bd9045890008880573--creative-sherbet-c23333.netlify.app/
+
+https://github.com/rubyhillsmith/holiday-rooms
+
 
