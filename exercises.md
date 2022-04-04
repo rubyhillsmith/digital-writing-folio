@@ -47,4 +47,8 @@ https://624142bd9045890008880573--creative-sherbet-c23333.netlify.app/
 
 https://github.com/rubyhillsmith/holiday-rooms
 
+## Week 6
 
+### Updated, FIXED Twine Experiment ('Holiday Rooms') with image :)
+
+https://unique-capybara-c87415.netlify.app/
