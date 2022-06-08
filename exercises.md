@@ -57,15 +57,23 @@ https://github.com/rubyhillsmith/holiday-rooms
 
 ## Week 6
 
-### Updated, FIXED Twine Experiment ('Holiday Rooms') with image :)
+### Edited Twine Experiment: styles and linked image
 
-This week I added styles and a linked image to my Twine experiment, [Holiday Rooms](https://unique-capybara-c87415.netlify.app/)
+This week I fixed (!) my Twine experiment and added styles and a linked image, [Holiday Rooms](https://unique-capybara-c87415.netlify.app/)
+
+### Bitsy Game 'Poetry Quest'
+
+This week I created a simple Bitsy game called [Poetry Quest](https://benevolent-biscuit-fbf4c2.netlify.app/)
 
 ## Week 9
+
+### Edited Twine Experiment: audio
 
 This week I added audio to the final page of my Twine experiment, [Holiday Rooms](https://unique-capybara-c87415.netlify.app/)
 
 ## Week 10
+
+### Edited Twine Experiment: background image
 
 This week I added a spooky background image to my Twine experiment, [Holiday Rooms](https://unique-capybara-c87415.netlify.app/)
 
