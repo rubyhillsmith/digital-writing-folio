@@ -63,7 +63,7 @@ This week I fixed (!) my Twine experiment and added styles and a linked image, [
 
 ### Bitsy Game 'Poetry Quest'
 
-This week I also created a simple Bitsy game called [Poetry Quest](https://benevolent-biscuit-fbf4c2.netlify.app/)
+This week I also created a Bitsy game called [Poetry Quest](https://benevolent-biscuit-fbf4c2.netlify.app/)
 
 ## Week 9
 
