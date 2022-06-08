@@ -65,3 +65,7 @@ This week I added styles and a linked image to my Twine experiment, [Holiday Roo
 
 This week I added audio to the final page of my Twine experiment, [Holiday Rooms](https://unique-capybara-c87415.netlify.app/)
 
+## Week 10
+
+This week I added a spooky background image to my Twine experiment, [Holiday Rooms](https://unique-capybara-c87415.netlify.app/)
+
