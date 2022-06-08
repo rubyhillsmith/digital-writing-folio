@@ -43,9 +43,9 @@ https://forest-foremost-van.glitch.me/
 
 ## Week 4
 
-### We Walk to You Remix
+### We Walk to You Remix, 'Hurry Up'
 
-[Hurry Up] https://lapis-scarlet-light.glitch.me
+https://lapis-scarlet-light.glitch.me
 
 ## Week 5
 
