@@ -59,4 +59,9 @@ https://github.com/rubyhillsmith/holiday-rooms
 
 ### Updated, FIXED Twine Experiment ('Holiday Rooms') with image :)
 
-https://unique-capybara-c87415.netlify.app/
+This week I added styles and a linked image to my Twine experiment, [Holiday Rooms](https://unique-capybara-c87415.netlify.app/)
+
+## Week 9
+
+This week I added audio to the final page of my Twine experiment, [Holiday Rooms](https://unique-capybara-c87415.netlify.app/)
+
