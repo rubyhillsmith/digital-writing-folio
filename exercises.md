@@ -33,6 +33,14 @@ Alireza Mahzoon’s remix is called Snowball. Like Taroko Gorge, the poem descri
 
 I think it was partially successful, though I didn't enjoy it as much as Taroko Gorge. I’m used to taking my time when I read poems, so having to contend with such a fast-moving poem on this incredibly micro level put me off at first. Maybe the scrolling speed (combined with the bright white text) is supposed to evoke heavy snowfall? In some ways it’s an interesting and valuable exercise — being forced to focus on one or two words at a time rather than processing them within the broader context of entire phrases or stanzas. While I enjoyed the poem’s imagery at first, I soon became frustrated that it drew from such a small pool of words. Mahzoon uses an image of code as a backdrop to the poem, which contrasts with the poem’s organic/human imagery — this is a playful, intriguing choice. 
 
+## Week 3
+
+### To Make a Dadaist Poem Remix
+
+My remix is based on this [New York Post article](https://nypost.com/2022/03/06/wonder-of-the-seas-cruise-ship-sets-sail-for-first-time/) about an enormous cruise ship.
+
+https://forest-foremost-van.glitch.me/
+
 ## Week 4
 
 ### We Walk to You Remix
