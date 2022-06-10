@@ -63,7 +63,7 @@ Here is the FIRST iteration of my Twine experiment, Holiday Rooms. I’ve alread
 
 ### Edited Twine Experiment: Styles and Linked Image
 
-This week I fixed (!) my Twine experiment and added styles and a linked image, [Holiday Rooms](https://unique-capybara-c87415.netlify.app/)
+This week I fixed my Twine experiment and added styles and a linked image, [Holiday Rooms](https://unique-capybara-c87415.netlify.app/)
 
 For whatever reason, last week’s iteration of Holiday Rooms kept on breaking / failing to update, so I had to create a replica (linked here). This one works! This week we added styles and a linked image. It was hard to keep up with Ben’s instructions at times, but this also encouraged me to let go and focus on the technical side of things — putting aside the quality of my story and the ugliness of my font choices, etc. 
 
